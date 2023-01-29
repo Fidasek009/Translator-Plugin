@@ -448,5 +448,21 @@
     "A technician is working on a laptop and an app is not loading. What is a probable cause for this situation?": "- An app needs to be restarted.\n",
     "A technician is working on a laptop and an app is not responding. What is a probable cause for this situation?": "- An app needs to be restarted.\n",
     "A technician is working on a laptop and an error message about decryption appears when opening an email. What is a probable cause for this situation?": "- A digital certificate is missing.\n",
-    "A user is complaining that the printer is printing pages with no image on them. What should the technician do to resolve the issue?": "- Replace the toner cartridge.\n"
+    "A user is complaining that the printer is printing pages with no image on them. What should the technician do to resolve the issue?": "- Replace the toner cartridge.\n",
+    "Refer to the exhibit. Match the letter found in the exhibit with the description. (Not all options are used.)": "- E\n- F\n- C\n- B\n- A",
+    "Refer to the exhibit. Match the type of expansion slot to the letter shown in the graphic. (Not all options are used.)": "- PCIe x16\n- PCIe x1\n- PCI",
+    "Match the port number or numbers to the protocol. (Not all options are used.)": "- 20 and 21\n- 80\n- 443\n- 3389",
+    "Match the Windows 10 boot sequence after the boot manager (bootmgr.exe) loads.": "- The Windows boot loader Winload.exe loads.\n- Ntoskrnl.exe and hal.dll are loaded.\n- Winload.exe reads the Registry, chooses a hadware profile, and loads the device drivers\n- Ntoskrnl.exe takes over the process\n- Winlogon.exe is loaded and executes the logon process",
+    "Match the correct API with its function within the Windows 10 environment.": "- Open Graphics Library (OpenGL)\n- DirectX\n- Windows APIs\n- Java APIs",
+    "Match the tabs of the Windows 10 Task Manager to their functions. (Not all options are used.)": "- Details\n- Performance\n- Startup\n- Services",
+    "Match the drive status indicators in the Disk Management utility with their description. (Not all options are used.)": "- Healthy\n- Initializing\n- Not Initialized\n- Online\n- Offline",
+    "Match the wireless security settings to the description. (Not all options are used.)": "- WPA2-Personal\n- WPA2-Enterprise\n- Open",
+    "Match the individual languages with their corresponding classification.": "- VBScript\n- Python\n- JavaScript\n- --\n- c++\n- Java\n- C#",
+    "Place the six stages of the troubleshooting process in the correct order.": "- Identify the problem.\n- Establish a theory of probable cause.\\n- Establish a plan of action to resolve the problem and implement the solution.\n- Verify full system functionality and if applicable, implement preventive measures.\n- Document findings, actions, and outcomes.",
+    "Match the memory type to the feature. (Not all options are used.)": "- DDR4 SDRAM\n- DDR SDRAM\n- DDR3 SDRAM\n- DDR2 SDRAM",
+    "Match the problem to the possible solution. (Not all options are used.)": "- The motherboard capacitors are distended, swolled, emmitind residue, or bulging.\n- The user can hear the fans spinning but the PC will not start and there are no beeps from the speaker.\n- After upgrading the core CPU to a dual core CPU only one CPU graph is seen in the task manager.\n- The computer does not display any video after installing a new PCIe video card.",
+    "Match the Android or Apple element to its description.": "- proprletary SDK Xcode\n- sideloading apps\n- applivation sandbox\n- widgets\n- rooting and jailbraking\n- walled garden model",
+    "Match the function performed by an OS to its description.": "- application management\n- hardware access\n- user interface\n- file and folder management",
+    "Match the IT policy type with its description.": "- disaster recovery policies\n- regulatory compliance policies\n- security policies\n- acceptable use policies",
+    "Match the computer or peripheral problem with a probable cause of the issue.": "- The POST process in not executing on startup.\n- The puilt-in NIC may have failed.\n- The card may require auxiliary power.\n- The CMOS battery may be loose or drained.\n- The BIOS firmware needs to be updated."
 }
